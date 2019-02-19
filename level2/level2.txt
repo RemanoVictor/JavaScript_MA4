@@ -1,0 +1,51 @@
+1. What is the DOM?
+
+
+The DOM (Document Object Model) is basically a structure that is similar to a tree. The DOM allows for accessing various content and elements through-out  the HTML document.
+
+
+
+2. List 3 methods used to manipulate the DOM. 
+
+a) appendChild()
+
+b) createElement()
+
+c) addEventListener()
+
+
+
+3. What is an Asynchronous call?
+
+An asynchronous call acts as a promise. The method can be called before the page has been loaded in. 
+
+
+
+4. Briefly explain what the sources tab Chrome Developers Tools does.
+
+The sources tab in Chrome Developer Tools gives you a live overview of the selected document. this can be the index.html file or the .js file. 
+
+
+
+5. What is a JavaScript Promise? 
+
+A JavaScript promise refers to a value that will later occur in a  document. 
+
+
+
+6. What is an API? 
+
+Refers to the Application Programming Interface. An API is the server that the client  with interacts. 
+
+
+
+7. What is a JavaScript event?
+
+This refers to any interaction between the HTML and the user through javascript.
+
+
+
+8. What is event bubbling? 
+
+Event bubbling refers to events that are run when the document is read from bottom to top. 
+
